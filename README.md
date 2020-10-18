@@ -11,4 +11,4 @@
 <ol>
 <li><p> To install this code, download the zip file, or use GitHub's guidelines to clone the repository.</p></li>
 <li><p> Open in browser</p></li>
- </ol
+</ol>
